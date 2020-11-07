@@ -17,7 +17,7 @@
 const posenet = require("@tensorflow-models/posenet");
 const tf = require("@tensorflow/tfjs");
 
-const color = "aqua";
+const color = "yellow";
 const boundingBoxColor = "red";
 const lineWidth = 2;
 
